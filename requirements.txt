@@ -1,0 +1,6 @@
+# Core dependencies
+matplotlib>=3.5.0  # For animation and plotting
+numpy>=1.21.0      # For mathematical operations
+
+# Optional (for GIF export)
+pillow>=9.0.0      # Required for saving animations as GIFs
