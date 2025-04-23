@@ -22,7 +22,7 @@ A mesmerizing, mathematically-generated beating heart animation using Python and
 ```bash
 # Clone repository
 git clone https://github.com/iyoramu/heart-art-generator.git
-cd animated-heart
+cd heart-art-generator
 
 # Install dependencies
 pip install -r requirements.txt
